@@ -1,4 +1,4 @@
-# -Getting-the-Thinkpad-T480-fingerprint-scanner-to-work-with-Fedora-44
+# Getting-the-Thinkpad-T480-fingerprint-scanner-to-work-with-Fedora-44
 
 THINKPAD T480 FINGERPRINT SCANNER SETUP - FEDORA 43 KDE
 ========================================================
