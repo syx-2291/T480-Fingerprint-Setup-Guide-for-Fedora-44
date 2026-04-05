@@ -1,0 +1,1 @@
+# -Getting-the-Thinkpad-T480-fingerprint-scanner-to-work-with-Fedora-44
